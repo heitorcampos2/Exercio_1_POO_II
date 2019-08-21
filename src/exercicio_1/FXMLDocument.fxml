@@ -6,9 +6,9 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" prefHeight="443.0" prefWidth="379.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="exercicio_1.FXMLDocumentController">
+<AnchorPane id="AnchorPane" prefHeight="443.0" prefWidth="379.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="exercicio_1.FXMLDocumentController">
    <children>
-      <Label layoutX="21.0" layoutY="30.0" prefHeight="17.0" prefWidth="164.0" text="Exercício 1">
+      <Label layoutX="119.0" layoutY="31.0" prefHeight="36.0" prefWidth="133.0" text="Calculadora">
          <font>
             <Font size="25.0" />
          </font>

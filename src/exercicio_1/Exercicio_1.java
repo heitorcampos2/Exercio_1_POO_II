@@ -25,6 +25,8 @@ public class Exercicio_1 extends Application {
         
         stage.setScene(scene);
         stage.show();
+        //Colocando um titulo na janela
+        stage.setTitle("Exercício 1 - Calculadora");
     }
 
     /**
